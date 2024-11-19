@@ -1,0 +1,17 @@
+<style media="screen">
+ div{
+ width: 80%;
+ margin: 0 auto;
+ height: 100px;
+ }
+ .bgcolor{ background-color: #ff4533; }
+ .bgimage{ background-image: url("batako.jpg"); }
+ .bgposition{
+ height: 350px;
+ align-items: center;
+ background: url("logo.png") #820004 no-repeat left;
+ }
+ .gradient1{ background:linear-gradient(to right, red, yellow,
+green);}
+ .gradient2{ background:linear-gradient(red, yellow, green);}
+ </style>

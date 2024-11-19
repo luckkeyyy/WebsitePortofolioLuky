@@ -1,0 +1,112 @@
+*,html, body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.table{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.none{
+    border-style: none;
+} 
+.biru{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(195, 240, 255);
+    color: rgb(14, 88, 184);
+}
+.pink{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: pink;
+    color: rgb(133, 0, 0);
+}
+.angka{
+    margin-right:3vw ;
+    
+}
+.birumuda{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(151, 255, 255);
+    color: rgb(3, 100, 82);
+}
+.pink{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: pink;
+    color: rgb(133, 0, 0);
+}
+.yellow{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: lightyellow;
+    color: orange;
+}
+.biru{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(195, 240, 255);
+    color: rgb(14, 88, 184);
+}
+.ijo{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(151, 255, 208);
+    color: rgb(3, 100, 82);
+}
+.ungu{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(232, 141, 255);
+    color: rgb(112, 15, 112);
+}
+.orange{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: orange;
+    color: lightyellow;
+}
+.grey{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: lightgrey;
+    color: rgb(71, 71, 71);
+}
+.birupucet{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(192, 255, 255);
+    color: rgb(6, 44, 44);
+}
+.font{
+    font-size:xx-large;
+
+}
+

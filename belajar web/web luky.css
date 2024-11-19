@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+body{
+    font-family: "inter", serif;
+}
+h1,h2,h3,h4,h5,h6, strong{
+    color: black;
+}
+p{
+    font-size: 1rem; /*16px*/
+    line-height: 1.9rem;
+}
+p, span, label, input, textarea, li{
+    color:azure;
+}
+a{
+    text-decoration: none;
+}
+.main-container{
+    width: 1200px;
+    margin: 0 auto;
+}
+@media screen and (max-width: 1200px) {
+    .main-container{
+        width'90%;
+    }
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.nav ul {
+    list-type: none;
+    display: flex;
+    gap: 3rem;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.logo a {
+    color: black;
+}
+.nav ul li{
+    display: flex;
+    align-items: center;
+}
+.nav ul li a {
+    color: black;
+}
+.hero {
+    color: aqua;
+}

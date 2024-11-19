@@ -1,0 +1,22 @@
+<style media="screen">
+ .blue {color: purple;}
+ .green {color: green;}
+ .indigo {color: #5D76CB; }
+ .spacing{ letter-spacing: 2px; word-spacing: 5px; lineheight: 20px;
+
+ }
+ .uppercase{ text-transform:uppercase; }
+ .lowercase{ text-transform:lowercase; }
+ .capitalize{ text-transform:capitalize; }
+ .paragraf{
+ font-family: "akira expanded";
+ font-size: 20px;
+ }
+ ul{
+ list-style-type:circle;
+ }
+ li{
+ font-family: "Tahoma";
+ font-size: 15px;
+ }
+ </style>
